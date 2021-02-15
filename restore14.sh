@@ -37,7 +37,7 @@ killall Terminal
  echo "*********************************************************"
  printf "\n"
  echo "Welcome to FutureRestore!"
- chmod 777 futurerestore
+ chmod 777 futurerestore189
  ./futurerestore189 -t blob.shsh2 --latest-sep --latest-baseband restore.ipsw
  clear
  echo "Your Device Should be Restored"
