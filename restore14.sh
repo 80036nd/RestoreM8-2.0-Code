@@ -41,7 +41,7 @@ killall Terminal
  ./futurerestore189 -t blob.shsh2 --latest-sep --latest-baseband restore.ipsw
  clear
  echo "Your Device Should be Restored"
- echo "RestoreM8-14 By 80036nd"
+ echo "RestoreM8-2.0 By 80036nd"
  echo "Futurerestore 14 by tihmstar and marijuanARM"
  echo "Legacy patches by GeoSn0w"
  echo "Terminal Closing in 10 seconds"
