@@ -2,8 +2,6 @@
 
 Files for the RestoreM8 2.0 app located in ~/Documents/RestoreM8-2.0
 
-Futurerestore by @marijuanARM and @tihmstar
-
 # Note!
 
 Futurerestore v180 and v189 is included in this app to support iOS 14 and below downgrades.
