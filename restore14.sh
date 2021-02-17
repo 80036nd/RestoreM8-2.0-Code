@@ -25,7 +25,7 @@ killall Terminal
  exit
  fi
 
- FILE=futurerestore
+ FILE=futurerestore189
  if [ -f "$FILE" ]; then
  echo "The $FILE file exists. Continuing..."
  else
