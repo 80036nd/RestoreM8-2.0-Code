@@ -1,4 +1,6 @@
 #!/bin/bash
+killall iTunes
+killall iTunesHelper
  set -e
  clear
  cd ~/Documents/RestoreM8-2.0
