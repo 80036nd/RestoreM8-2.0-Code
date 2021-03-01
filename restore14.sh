@@ -44,7 +44,7 @@ killall Terminal
  clear
  echo "Your Device Should be Restored"
  echo "RestoreM8-2.0 By 80036nd"
- echo "Futurerestore 14 by tihmstar and marijuanARM"
+ echo "Futurerestore 14 by tihmstar and _m1sta"
  echo "Legacy patches by GeoSn0w"
  echo "Terminal Closing in 10 seconds"
 sleep 10 
