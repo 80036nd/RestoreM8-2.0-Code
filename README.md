@@ -17,6 +17,6 @@ Compatible with 14.3-14.5b2 on A11 and above.
 
 @80036ndyt for the app
 
-Futurerestore by @marijuanARM, @tihmstar @s0uthwest
+Futurerestore by @marijuanARM, @tihmstar @_m1sta
 
 Legacy patches by GeoSn0w (iDevice Central)
