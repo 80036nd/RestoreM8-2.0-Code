@@ -27,7 +27,7 @@ killall Terminal
  exit
  fi
 
- FILE=futurerestore189
+ FILE=futurerestore193
  if [ -f "$FILE" ]; then
  echo "The $FILE file exists. Continuing..."
  else
@@ -39,8 +39,8 @@ killall Terminal
  echo "*********************************************************"
  printf "\n"
  echo "Welcome to FutureRestore!"
- chmod 777 futurerestore189
- ./futurerestore189 -t blob.shsh2 --latest-sep --latest-baseband restore.ipsw
+ chmod 777 futurerestore193
+ ./futurerestore193 -t blob.shsh2 --latest-sep --latest-baseband restore.ipsw
  clear
  echo "Your Device Should be Restored"
  echo "RestoreM8-2.0 By 80036nd"
