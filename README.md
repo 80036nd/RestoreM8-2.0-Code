@@ -4,7 +4,7 @@ Files for the RestoreM8 2.0 app located in ~/Documents/RestoreM8-2.0
 
 # Note!
 
-Futurerestore v180, v189, and v193 is included in this app to support iOS 14 and below downgrades.
+Futurerestore v180, and v193 is included in this app (no longer v189) to support iOS 14 and below downgrades.
 
 This will wipe your device 
 
